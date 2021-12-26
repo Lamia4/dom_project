@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Dom/t_spa03_fetch-promises-Lamia4"
+		},
+		{
+			"path": "../../../../Dom"
+		},
+		{
+			"path": "../../../../MyToDoList"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ToDoListe"
+	}
+}
